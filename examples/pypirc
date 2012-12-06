@@ -1,0 +1,13 @@
+[distutils]
+index-servers =
+    pypi
+    aol
+
+[pypi]
+username:
+password:
+
+[aol]
+username:teamaol
+password:bluemonster
+repository:http://pypi.white.aol.com/
